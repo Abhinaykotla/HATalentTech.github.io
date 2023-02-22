@@ -432,7 +432,7 @@ header .navbar a:hover {
 }
 
 .ml_li {
-    font-size: 10px;
+    font-size: 14px;
     color: #000;
 }
 
@@ -466,10 +466,12 @@ header .navbar a:hover {
 
 .green {
     font-size: 30px;
+    color: #0c0000;
+    padding: 10px;
 }
 
 .ml_largeli {
-    font-size: 15px;
+    font-size: 20px;
     font-style: bold;
 }
 
